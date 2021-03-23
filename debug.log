@@ -1,0 +1,10 @@
+[1009/010458.983:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1009/010458.989:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1009/030304.775:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1009/030304.792:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1009/030621.066:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1009/030621.067:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1009/030754.677:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1009/030754.678:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1020/190905.068:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1201/203332.411:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
